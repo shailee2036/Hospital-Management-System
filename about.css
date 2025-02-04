@@ -1,0 +1,30 @@
+.f {
+    /* width: 100%; */
+    padding: 30px;
+    text-align: justify;
+}
+
+.s {
+    /* width: 95%; */
+    padding: 30px;
+    text-align: justify;   
+
+}
+
+.t {
+    /* width: 95%; */
+    padding: 30px;
+    text-align: justify;
+}
+
+/* .container{
+    background-color: white;
+} */
+
+.top {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    width: 60%;
+   
+}
